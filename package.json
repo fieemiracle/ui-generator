@@ -9,8 +9,18 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@copilotkit/react-core": "^1.50.1",
+    "@copilotkit/react-textarea": "^1.50.1",
+    "@copilotkit/react-ui": "^1.50.1",
+    "@copilotkit/runtime": "^1.50.1",
+    "@langchain/community": "^1.1.1",
+    "@langchain/core": "^1.1.8",
+    "@langchain/langgraph": "^1.0.7",
+    "@langchain/openai": "^1.2.0",
+    "ace-builds": "^1.43.5",
     "next": "16.1.1",
     "react": "19.2.3",
+    "react-ace": "^14.0.1",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
